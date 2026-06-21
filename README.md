@@ -73,23 +73,26 @@ Three regression models were trained and evaluated:
 * **RMSE:** 214,528
 
 ---
-## 📁 Project Structure
-##AI-Powered-Car-Price-Prediction/
+### 📁 Project Structure
 
-screenshots/
-│     ├── HomePage.png
-│     ├── UserInput.png
-│     ├── ModelPrediction.png
-│     ├── ModelPerformance.png
-│     └── About.png
+```text
+AI-Powered-Car-Price-Prediction/
 │
-├── app.py
-├── cardekho_dataset.csv
-├── car_price_prediction_model.pkl
-├── model_columns.pkl
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── 📁 screenshots/
+│   ├── HomePage.png
+│   ├── UserInput.png
+│   ├── ModelPrediction.png
+│   ├── ModelPerformance.png
+│   └── About.png
+│
+├── 🐍 app.py
+├── 📊 cardekho_dataset.csv
+├── 🤖 car_price_prediction_model.pkl
+├── 📦 model_columns.pkl
+├── 📋 requirements.txt
+├── 📄 README.md
+└── 🚫 .gitignore
+```
 ## 📷 Application Screenshots
 
 ### 🏠 Home Page
