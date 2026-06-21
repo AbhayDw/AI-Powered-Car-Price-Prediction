@@ -3,6 +3,10 @@
 A Machine Learning web application that predicts the selling price of used cars using **Random Forest Regression**. The application is built with **Python** and **Streamlit**, providing a simple and interactive interface for real-time price prediction.
 
 ---
+# 🚗 AI-Powered Car Price Prediction
+
+### 🌐 Live Demo
+https://ai-powered-car-price-prediction-uikbeitr8vufn4ma9scyww.streamlit.app/
 
 ## 📌 Project Overview
 
@@ -71,8 +75,8 @@ Three regression models were trained and evaluated:
 ---
 ## 📁 Project Structure
 ##AI-Powered-Car-Price-Prediction/
-│
-├── screenshots/
+
+screenshots/
 │     ├── HomePage.png
 │     ├── UserInput.png
 │     ├── ModelPrediction.png
